@@ -1,0 +1,27 @@
+{
+  "name": "hashcompressor",
+  "version": "1.0.0",
+  "description": "Compressor that fits a hash encoded in bs58 into a bytes32 variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbarcomu/HashCompressor.git"
+  },
+  "keywords": [
+    "IPFS",
+    "Solidity",
+    "Ethereum"
+  ],
+  "author": "Guillermo Barco <gbarcomu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbarcomu/HashCompressor/issues"
+  },
+  "homepage": "https://github.com/gbarcomu/HashCompressor#readme",
+  "dependencies": {
+    "bs58": "4.0.1"
+  }
+}
